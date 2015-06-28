@@ -2,6 +2,14 @@
 
 ## From here onwards
 
+    git clone https://github.com/einarhjorleifsson/template_leaflet.git
+    mv template_leaflet your_title
+    cd your_title
+    rm -rf .git
+    git init
+    
+From here on one can customize the 'section0*.Rmd' files to ones own needs and then 'knit' the stuff.
+
 
 ## How did I get here?
 
