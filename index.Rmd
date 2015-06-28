@@ -67,4 +67,9 @@ Edited '_includes/after_body.html'
     git add *
     git add .gitignore
     git add .nojekyll
+    
+    git remote add origin git@github.com:einarhjorleifsson/template_leaflet.git
     git commit -m 'seeding'
+    git push -u origin master
+
+
