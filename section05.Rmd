@@ -1,0 +1,5 @@
+---
+pagetitle: section05
+---
+
+Something __red__

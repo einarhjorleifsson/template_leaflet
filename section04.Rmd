@@ -1,0 +1,5 @@
+---
+pagetitle: section04
+---
+
+Something __blue__
